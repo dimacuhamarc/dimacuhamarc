@@ -3,11 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/mdimacuha_" target="blank"><img src="https://img.shields.io/twitter/follow/mdimacuha_?logo=twitter&style=for-the-badge" alt="mdimacuha_" /></a> </p>
 
-- 🔭 I’m currently working on **ReciPls**
+- 🔭 I’m currently working on **ReciPls**, **QuickReel**, and **Playground**
 
-- 🌱 I’m currently learning **Rails, NextJS**
-
-- 🔭 I’m currently working on **Seening**
+- 🌱 I’m currently studying at Avion, and University of the Philippines
 
 - 📫 How to reach me **dimacuha.marc@gmail.com**
 
