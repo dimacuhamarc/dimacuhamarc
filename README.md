@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Marc Dimacuha</h1>
-<h3 align="center">a goal-oriented and ambitious University of the Philippines undergraduate currently pursuing Computer Science.</h3>
 
 <p align="left"> <a href="https://twitter.com/mdimacuha_" target="blank"><img src="https://img.shields.io/twitter/follow/mdimacuha_?logo=twitter&style=for-the-badge" alt="mdimacuha_" /></a> </p>
 
