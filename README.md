@@ -2,6 +2,8 @@
 
 <p align="left"> <a href="https://twitter.com/mdimacuha_" target="blank"><img src="https://img.shields.io/twitter/follow/mdimacuha_?logo=twitter&style=for-the-badge" alt="mdimacuha_" /></a> </p>
 
+- 💼 I’m currently working as a Software Engineer at **Bridge Your Network**
+
 - 🌱 I’m currently studying at **Avion**
 
 - 📚 Earned 167 Units from **University of the Philippines - Baguio**
