@@ -4,17 +4,17 @@
 <p align="left"> <a href="seira | セイラ" target="blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="seira | セイラ" /></a>  </p>
 
 
-- 💼 I’m currently working as a Software Engineer at **[First Circle](https://www.firstcircle.ph/)**
+- 💼 I’m currently working as a Fullstack Software Engineer at **[Digitizing Inc.](https://www.digitizing.io/)**
 
-- 💼 I Worked as a Frontend Software Engineer at **[Bridge Your Network](https://brdg.app/)**
+- 💼 Prev. Frontend Software Engineer at **[Bridge Your Network](https://brdg.app/)**
+- 💼 Prev. Jr. Software Engineer at **[First Circle](https://www.firstcircle.ph/)**
 
 - 🌱 Currently working on my personal projects
   - Watchly - Discover where to stream your favorite movies and shows, track your watchlists, and find your next binge with ease.
   - Cliniqo - A modern platform that streamlines clinic management, patient appointments, and healthcare workflows effortlessly.
-  - Coco - Your personal journaling companion that analyzes your mood, highlights triggers, and offers insights for emotional growth.
 
 - 🌱 Currently learning these technologies
-  - Java & Springboot
+  - Go Lang
   - Ionic
   - Swift and SwiftUI
 
